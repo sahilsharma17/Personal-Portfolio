@@ -544,20 +544,20 @@ img {
   width: 50%;
 }
 
-.skills__Java {
+.skills__java {
   width: 80%;
 }
 
-.skills__pyhton {
+.skills__python {
   width: 70%;
 }
 
-.skills__counter {
-  width: 80%;
+.skills__dart {
+  width: 70%;
 }
 
-.skills__office {
-  width: 90%;
+.skills__htmlcss {
+  width: 60%;
 }
 
 .skills__close .skills__list {
